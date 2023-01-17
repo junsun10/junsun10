@@ -1,5 +1,9 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsun10&show_icons=true&theme=transparent)
+<div>
 
+  [![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=junsun10&show_icons=true&theme=transparent)](https://github-readme-stats-ruby-one.vercel.app/api?username=hanjoojunsun10)
+
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=junsun1014)](https://solved.ac/junsun1014)
+</div>
 <!--
 **junsun10/junsun10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

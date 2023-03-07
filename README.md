@@ -1,6 +1,6 @@
 <div>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsun10&show_icons=true&theme=transparent)](https://github-readme-stats.vercel.app/api?username=hanjoojunsun10)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsun10&theme=transparent)](https://github-readme-stats.vercel.app/api?username=junsun10)
 
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=junsun1014)](https://solved.ac/junsun1014)
 </div>

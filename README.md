@@ -4,7 +4,7 @@
 
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=junsun1014)](https://solved.ac/junsun1014)
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunsun10&count_bg=%230024FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                    
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunsun10&count_bg=%23021172&title_bg=%231F1F1F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                   
 </div>
 <!--
 **junsun10/junsun10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
